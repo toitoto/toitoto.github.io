@@ -3,7 +3,29 @@
 - 🌱 I’m currently learning ... forever
 - 💞️ I’m looking to collaborate on ... all
 
-<!---
-toitoto/toitoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# platzi-curso-practico-javascript
+
+...
+
+## Taller #1: figuras geométricas
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
+
+## Taller #2: porcentaajes y descuentos
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
+
+## Taller #3: promedio, mediana y moda
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
+# curso-practico-javascript
+
